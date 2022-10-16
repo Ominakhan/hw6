@@ -1,5 +1,34 @@
 .App {
   text-align: center;
+  list-style: none;
+}
+
+.b1{
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
+
+.b2{
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+
+.b3{
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: lime;
+}
+
+.b4{
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  background-color:red;
 }
 
 .App-logo {
